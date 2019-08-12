@@ -1,0 +1,3 @@
+form is submit by two method 
+post nd get
+get is not s
